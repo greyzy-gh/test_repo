@@ -1,4 +1,5 @@
 # python 3
 longg = 8
 shir  = 5
-print("Площадь равна ширина"+str(shir)+ "умножить на длину"+str(longg))
+diff print_sg():
+    print(f"Площадь равна ширина {shir} умноженная на длину {longg}")
