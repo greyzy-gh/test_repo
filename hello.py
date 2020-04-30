@@ -1,7 +1,8 @@
-# python 3
+п»ї# python 3
 import os
 import random
-
+import pprint
+#=================
 longg = 8
 shir  = 5
-print("Площадь равна ширина"+str(shir)+ "умножить на длину"+str(longg))
+print("РџР»РѕС‰Р°РґСЊ СЂР°РІРЅР° С€РёСЂРёРЅР°"+str(shir)+ "СѓРјРЅРѕР¶РёС‚СЊ РЅР° РґР»РёРЅСѓ"+str(longg))
